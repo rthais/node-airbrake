@@ -1,5 +1,7 @@
 # airbrake
 
+## Modified, to play nicely with Nodejitsu
+
 Node.js client for [airbrakeapp.com][], formerly known as [hoptoadapp.com][].
 
 [airbrakeapp.com]: http://airbrakeapp.com/
