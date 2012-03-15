@@ -2,18 +2,14 @@
   "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
   "name": "airbrake",
   "description": "Node.js client for airbrakeapp.com, formerly known as hoptoadapp.com.",
-  "version": "0.2.4",
-  "homepage": "https://github.com/felixge/node-airbrake",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/felixge/node-airbrake.git"
+  "version": "0.2.4"
   },
   "main": "./index",
   "engines": {
     "node": "*"
   },
   "dependencies": {
-    "request": "1.9.8",
+    "request": "2.9.x",
     "xmlbuilder": "0.1.5",
     "stack-trace": "0.0.5",
     "hashish": "0.0.4"
