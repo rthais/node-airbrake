@@ -1,8 +1,6 @@
 # airbrake
 
-## Modified, to play nicely with Nodejitsu
-
-Node.js client for [airbrakeapp.com][], formerly known as [hoptoadapp.com][].
+Node.js client for [airbrakeapp.com][], formerly known as [hoptoadapp.com][]. Forked to play nicely with Nodejitsu.
 
 [airbrakeapp.com]: http://airbrakeapp.com/
 [hoptoadapp.com]: http://robots.thoughtbot.com/post/7665411707/hoptoad-is-now-airbrake
